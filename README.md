@@ -5,6 +5,7 @@ https://www.kaggle.com/datasets/alessandrolobello/agri-food-co2-emission-dataset
 How agricultural food production impacts climate change
 
 - Climate change_Agrifood report.pdf
+- Climate change Presentation.pdf
 - Climate change_Agrifood.ipynb
 - global_temperatures.csv: dataset used for 'Climate change_Agrifood.ipynb'
 - agrifood.csv: dataset used for 'Climate change_Agrifood.ipynb'
